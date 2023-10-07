@@ -4,8 +4,8 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
 const RESOURCES = {"manifest.json": "7ecc6b4163d172487ee400f2c6c806e4",
-"index.html": "7ba8ef4fcd46e77e517b90453c9f203f",
-"/": "7ba8ef4fcd46e77e517b90453c9f203f",
+"index.html": "7a6525e5fb7bc1ba98b7d625e2acb1de",
+"/": "7a6525e5fb7bc1ba98b7d625e2acb1de",
 "canvaskit/canvaskit.js": "bbf39143dfd758d8d847453b120c8ebb",
 "canvaskit/canvaskit.wasm": "42df12e09ecc0d5a4a34a69d7ee44314",
 "canvaskit/skwasm.worker.js": "51253d3321b11ddb8d73fa8aa87d3b15",
@@ -14,20 +14,20 @@ const RESOURCES = {"manifest.json": "7ecc6b4163d172487ee400f2c6c806e4",
 "canvaskit/chromium/canvaskit.wasm": "be0e3b33510f5b7b0cc76cc4d3e50048",
 "canvaskit/skwasm.js": "95f16c6690f955a45b2317496983dbe9",
 "flutter.js": "6fef97aeca90b426343ba6c5c9dc5d4a",
-"main.dart.js": "cdc7fb0a854db7f81902a90dd494afb5",
+"main.dart.js": "c8dc4428ca65c0d3a987cf395c027490",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
-"assets/NOTICES": "fa62545cc0dda6647881b7c736071fa8",
+"assets/NOTICES": "517dfc422a4505868985db5566ea8869",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "4eaebdc5d674954f60dcb7c596e3c361",
+"assets/fonts/MaterialIcons-Regular.otf": "25934e191d7e966036e966673aee3a23",
 "assets/shaders/ink_sparkle.frag": "f8b80e740d33eb157090be4e995febdf",
 "assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c",
 "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"version.json": "ec5f8e153745f138076e5b1703f7451a"};
+"version.json": "459397232fe8942a64e12af15fd4664b"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
